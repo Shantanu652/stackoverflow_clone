@@ -1,0 +1,33 @@
+.home-container-1{
+    min-height: 100vh;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0% auto;
+    flex: 1 0 auto;
+}
+
+.home-container-2{
+    max-width: 1100px;
+    margin-top: 65px;                                               
+    /* width: calc(100% - 164px); */
+    border: px solid #d6d9dc;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.home-main-container {
+    margin-left: -930px;
+}
+
+.right-sidebar-image{
+    width: 15px;
+}
+
+/* .vote-img{
+    width: 18px;
+} */
+
+.question-details{
+    margin-left: -930px;
+}
